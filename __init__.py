@@ -5,7 +5,7 @@ from pandas.core.frame import DataFrame, Series
 from cprinter import TC
 from a_pandas_ex_less_memory_more_speed import string_to_mixed_dtypes
 import pandas as pd
-from aa_pandas_ex_plode_tool import qq_s_isnan
+from a_pandas_ex_plode_tool import qq_s_isnan
 
 
 def series_to_dataframe(
